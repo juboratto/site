@@ -1,0 +1,36 @@
+div#topo{
+	width: 950px;
+	height: 165px;
+	margin: 0 auto;
+}
+
+
+div#menu{
+	 background: #554e4e;
+	 width: 950px;
+	 height: 65px;
+	 margin: 0 auto;
+}
+
+div#menu a{
+	color: #fff;
+	font-family: Verdana;
+	font-size: 25px;
+	text-decoration: none;
+	margin-top: 10px;
+	margin-left: 60px; 
+	display: block;
+	float: left;
+}
+
+div#menu a:hover{
+	color: #00c6c6;
+}
+
+div#banner{
+	background: #373737;
+	width: 950px;
+	height: 350px;
+	margin: 0 auto;
+	margin-top: 50px;
+}
