@@ -34,3 +34,10 @@ div#banner{
 	margin: 0 auto;
 	margin-top: 50px;
 }
+
+div#texto{
+	 background: #554e4e;
+	 width: 950px;
+	 height: 35px;
+	 margin: 0 auto;
+}
